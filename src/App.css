@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo {
+  max-width: 100vw;
+  max-height: 100vh;
+  height: auto;
+  width: auto;
+}
